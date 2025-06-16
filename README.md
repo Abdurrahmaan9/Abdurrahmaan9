@@ -1,17 +1,19 @@
 ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
-<h1 align="center">Hi 👋, I'm Abdur-rahmaan chimalo</h1>
-<h3 align="center">A passionate developer from Zambia</h3>
+<h1 align="center">Hi 👋, Abdur-rahmaan chimalo here.</h1>
+<h3 align="center">A software developer from Zambia</h3>
 <img align=”right” alt=”coding” width=”400” src=”https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0”>
 
-- 🔭 I’m currently working on **django projects**
+- 🔭 I’m currently working on **fin tech solutions**
 
-- 🌱 I’m currently learning **C_programming**
+- 🌱 I’m currently trying out **functional programing**
+  
+- 🗣️ Talk to me in Geek maybe we might have a good time
 
-- 💬 Ask me about **python | Django, JavaScript, dart,**
+- 💬  Ask me about anything related to **software engineering**
 
 - 📫 How to reach me **abdurrahmaanchimalo5@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ki6O3ZvpaFBQqVgfu4hAUeJrizd7qpqqKY-EQL5CW2o/edit?usp=sharing](https://docs.google.com/document/d/1ki6O3ZvpaFBQqVgfu4hAUeJrizd7qpqqKY-EQL5CW2o/edit?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1hwCrjYJVJR1FkP6y7sj-sJvso0xC_Yrh/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
