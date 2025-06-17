@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdurrahmaanchimalo5@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1hwCrjYJVJR1FkP6y7sj-sJvso0xC_Yrh/view?usp=drive_link)
+- 📄 Know about my experiences on my [portfolio](https://abdurrahmaan9.fly.dev/) or my [resume](https://drive.google.com/file/d/1hwCrjYJVJR1FkP6y7sj-sJvso0xC_Yrh/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
